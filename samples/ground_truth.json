@@ -1,0 +1,1164 @@
+[
+  {
+    "file": "layout_a_01.pdf",
+    "layout": "layout_a",
+    "scanned": false,
+    "expected_flags": [],
+    "invoice": {
+      "invoice_number": "INV-2026-0693",
+      "invoice_date": "2026-09-19",
+      "due_date": "2026-10-19",
+      "supplier_name": "Brightline Analytics LLC",
+      "supplier_tax_id": "91-2867825",
+      "customer_name": "Meridian Health Partners Inc.",
+      "customer_tax_id": "10-3678638",
+      "currency": "USD",
+      "subtotal": 2970.0,
+      "tax_rate": 8.875,
+      "tax_amount": 263.59,
+      "total": 3233.59,
+      "line_items": [
+        {
+          "description": "Training workshop (half day)",
+          "quantity": 1.0,
+          "unit_price": 623.0,
+          "amount": 623.0
+        },
+        {
+          "description": "Dashboard development (sprint)",
+          "quantity": 1.0,
+          "unit_price": 2347.0,
+          "amount": 2347.0
+        }
+      ]
+    }
+  },
+  {
+    "file": "layout_a_02_scan.pdf",
+    "layout": "layout_a",
+    "scanned": true,
+    "expected_flags": [],
+    "invoice": {
+      "invoice_number": "INV-2026-0696",
+      "invoice_date": "2026-09-24",
+      "due_date": "2026-10-24",
+      "supplier_name": "Harbor & Pine Consulting LLC",
+      "supplier_tax_id": "13-5614226",
+      "customer_name": "Meridian Health Partners Inc.",
+      "customer_tax_id": "10-3678638",
+      "currency": "USD",
+      "subtotal": 2816.0,
+      "tax_rate": 7.25,
+      "tax_amount": 204.16,
+      "total": 3020.16,
+      "line_items": [
+        {
+          "description": "Dashboard development (sprint)",
+          "quantity": 1.0,
+          "unit_price": 2467.0,
+          "amount": 2467.0
+        },
+        {
+          "description": "Cloud hosting - managed plan",
+          "quantity": 1.0,
+          "unit_price": 349.0,
+          "amount": 349.0
+        }
+      ]
+    }
+  },
+  {
+    "file": "layout_a_03.pdf",
+    "layout": "layout_a",
+    "scanned": false,
+    "expected_flags": [],
+    "invoice": {
+      "invoice_number": "INV-2026-0705",
+      "invoice_date": "2026-09-18",
+      "due_date": "2026-10-18",
+      "supplier_name": "Brightline Analytics LLC",
+      "supplier_tax_id": "91-2867825",
+      "customer_name": "Meridian Health Partners Inc.",
+      "customer_tax_id": "10-3678638",
+      "currency": "USD",
+      "subtotal": 4252.0,
+      "tax_rate": 8.875,
+      "tax_amount": 377.37,
+      "total": 4629.37,
+      "line_items": [
+        {
+          "description": "Training workshop (half day)",
+          "quantity": 1.0,
+          "unit_price": 867.0,
+          "amount": 867.0
+        },
+        {
+          "description": "Dashboard development (sprint)",
+          "quantity": 1.0,
+          "unit_price": 2388.0,
+          "amount": 2388.0
+        },
+        {
+          "description": "Data pipeline maintenance - monthly",
+          "quantity": 1.0,
+          "unit_price": 997.0,
+          "amount": 997.0
+        }
+      ]
+    }
+  },
+  {
+    "file": "layout_a_04.pdf",
+    "layout": "layout_a",
+    "scanned": false,
+    "expected_flags": [],
+    "invoice": {
+      "invoice_number": "INV-2026-0711",
+      "invoice_date": "2026-09-03",
+      "due_date": "2026-10-03",
+      "supplier_name": "Harbor & Pine Consulting LLC",
+      "supplier_tax_id": "13-5614226",
+      "customer_name": "Meridian Health Partners Inc.",
+      "customer_tax_id": "10-3678638",
+      "currency": "USD",
+      "subtotal": 1240.78,
+      "tax_rate": 7.25,
+      "tax_amount": 89.96,
+      "total": 1330.74,
+      "line_items": [
+        {
+          "description": "Training workshop (half day)",
+          "quantity": 1.0,
+          "unit_price": 1021.0,
+          "amount": 1021.0
+        },
+        {
+          "description": "Analytics consulting (hours)",
+          "quantity": 2.0,
+          "unit_price": 109.89,
+          "amount": 219.78
+        }
+      ]
+    }
+  },
+  {
+    "file": "layout_a_05_scan.pdf",
+    "layout": "layout_a",
+    "scanned": true,
+    "expected_flags": [],
+    "invoice": {
+      "invoice_number": "INV-2026-0716",
+      "invoice_date": "2026-09-10",
+      "due_date": "2026-10-10",
+      "supplier_name": "Brightline Analytics LLC",
+      "supplier_tax_id": "91-2867825",
+      "customer_name": "Meridian Health Partners Inc.",
+      "customer_tax_id": "10-3678638",
+      "currency": "USD",
+      "subtotal": 5668.28,
+      "tax_rate": 8.875,
+      "tax_amount": 503.06,
+      "total": 6171.34,
+      "line_items": [
+        {
+          "description": "Analytics consulting (hours)",
+          "quantity": 4.0,
+          "unit_price": 108.82,
+          "amount": 435.28
+        },
+        {
+          "description": "Dashboard development (sprint)",
+          "quantity": 1.0,
+          "unit_price": 2998.0,
+          "amount": 2998.0
+        },
+        {
+          "description": "Data pipeline maintenance - monthly",
+          "quantity": 1.0,
+          "unit_price": 1314.0,
+          "amount": 1314.0
+        },
+        {
+          "description": "Training workshop (half day)",
+          "quantity": 1.0,
+          "unit_price": 921.0,
+          "amount": 921.0
+        }
+      ]
+    }
+  },
+  {
+    "file": "layout_a_06.pdf",
+    "layout": "layout_a",
+    "scanned": false,
+    "expected_flags": [
+      "DUPLICATE"
+    ],
+    "invoice": {
+      "invoice_number": "INV-2026-0705",
+      "invoice_date": "2026-09-18",
+      "due_date": "2026-10-18",
+      "supplier_name": "Brightline Analytics LLC",
+      "supplier_tax_id": "91-2867825",
+      "customer_name": "Meridian Health Partners Inc.",
+      "customer_tax_id": "10-3678638",
+      "currency": "USD",
+      "subtotal": 4252.0,
+      "tax_rate": 8.875,
+      "tax_amount": 377.37,
+      "total": 4629.37,
+      "line_items": [
+        {
+          "description": "Training workshop (half day)",
+          "quantity": 1.0,
+          "unit_price": 867.0,
+          "amount": 867.0
+        },
+        {
+          "description": "Dashboard development (sprint)",
+          "quantity": 1.0,
+          "unit_price": 2388.0,
+          "amount": 2388.0
+        },
+        {
+          "description": "Data pipeline maintenance - monthly",
+          "quantity": 1.0,
+          "unit_price": 997.0,
+          "amount": 997.0
+        }
+      ]
+    }
+  },
+  {
+    "file": "layout_a_07_scan.pdf",
+    "layout": "layout_a",
+    "scanned": true,
+    "expected_flags": [],
+    "invoice": {
+      "invoice_number": "INV-2026-0727",
+      "invoice_date": "2026-10-09",
+      "due_date": "2026-11-08",
+      "supplier_name": "Brightline Analytics LLC",
+      "supplier_tax_id": "91-2867825",
+      "customer_name": "Meridian Health Partners Inc.",
+      "customer_tax_id": "10-3678638",
+      "currency": "USD",
+      "subtotal": 1157.0,
+      "tax_rate": 8.875,
+      "tax_amount": 102.68,
+      "total": 1259.68,
+      "line_items": [
+        {
+          "description": "Training workshop (half day)",
+          "quantity": 1.0,
+          "unit_price": 898.0,
+          "amount": 898.0
+        },
+        {
+          "description": "Cloud hosting - managed plan",
+          "quantity": 1.0,
+          "unit_price": 259.0,
+          "amount": 259.0
+        }
+      ]
+    }
+  },
+  {
+    "file": "layout_a_08.pdf",
+    "layout": "layout_a",
+    "scanned": false,
+    "expected_flags": [
+      "DATE_ORDER"
+    ],
+    "invoice": {
+      "invoice_number": "INV-2026-0732",
+      "invoice_date": "2026-10-05",
+      "due_date": "2026-09-30",
+      "supplier_name": "Harbor & Pine Consulting LLC",
+      "supplier_tax_id": "13-5614226",
+      "customer_name": "Meridian Health Partners Inc.",
+      "customer_tax_id": "10-3678638",
+      "currency": "USD",
+      "subtotal": 960.0,
+      "tax_rate": 7.25,
+      "tax_amount": 69.6,
+      "total": 1029.6,
+      "line_items": [
+        {
+          "description": "Training workshop (half day)",
+          "quantity": 1.0,
+          "unit_price": 960.0,
+          "amount": 960.0
+        }
+      ]
+    }
+  },
+  {
+    "file": "layout_b_01.pdf",
+    "layout": "layout_b",
+    "scanned": false,
+    "expected_flags": [],
+    "invoice": {
+      "invoice_number": "F2026/0765",
+      "invoice_date": "2026-09-17",
+      "due_date": "2026-10-17",
+      "supplier_name": "Almagro Soluciones Digitales S.L.",
+      "supplier_tax_id": "ESB33218199",
+      "customer_name": "Cobalt Retail S.A.",
+      "customer_tax_id": "ESA65423519",
+      "currency": "EUR",
+      "subtotal": 1547.48,
+      "tax_rate": 21.0,
+      "tax_amount": 324.97,
+      "total": 1872.45,
+      "line_items": [
+        {
+          "description": "Website maintenance",
+          "quantity": 1.0,
+          "unit_price": 223.0,
+          "amount": 223.0
+        },
+        {
+          "description": "Pallet storage (per pallet/month)",
+          "quantity": 6.0,
+          "unit_price": 17.58,
+          "amount": 105.48
+        },
+        {
+          "description": "Freight Madrid - Rotterdam",
+          "quantity": 1.0,
+          "unit_price": 1219.0,
+          "amount": 1219.0
+        }
+      ]
+    }
+  },
+  {
+    "file": "layout_b_02.pdf",
+    "layout": "layout_b",
+    "scanned": false,
+    "expected_flags": [],
+    "invoice": {
+      "invoice_number": "F2026/0768",
+      "invoice_date": "2026-09-13",
+      "due_date": "2026-10-13",
+      "supplier_name": "Van der Berg Logistics B.V.",
+      "supplier_tax_id": "NL553035110B01",
+      "customer_name": "Polder Foods B.V.",
+      "customer_tax_id": "NL199585092B01",
+      "currency": "EUR",
+      "subtotal": 553.01,
+      "tax_rate": 21.0,
+      "tax_amount": 116.13,
+      "total": 669.14,
+      "line_items": [
+        {
+          "description": "Technical support (hours)",
+          "quantity": 3.0,
+          "unit_price": 78.67,
+          "amount": 236.01
+        },
+        {
+          "description": "Website maintenance",
+          "quantity": 1.0,
+          "unit_price": 317.0,
+          "amount": 317.0
+        }
+      ]
+    }
+  },
+  {
+    "file": "layout_b_03_scan.pdf",
+    "layout": "layout_b",
+    "scanned": true,
+    "expected_flags": [],
+    "invoice": {
+      "invoice_number": "F2026/0772",
+      "invoice_date": "2026-09-20",
+      "due_date": "2026-10-20",
+      "supplier_name": "Almagro Soluciones Digitales S.L.",
+      "supplier_tax_id": "ESB33218199",
+      "customer_name": "Cobalt Retail S.A.",
+      "customer_tax_id": "ESA65423519",
+      "currency": "EUR",
+      "subtotal": 2412.12,
+      "tax_rate": 21.0,
+      "tax_amount": 506.55,
+      "total": 2918.67,
+      "line_items": [
+        {
+          "description": "UX audit",
+          "quantity": 1.0,
+          "unit_price": 1798.0,
+          "amount": 1798.0
+        },
+        {
+          "description": "Technical support (hours)",
+          "quantity": 4.0,
+          "unit_price": 45.78,
+          "amount": 183.12
+        },
+        {
+          "description": "Website maintenance",
+          "quantity": 1.0,
+          "unit_price": 431.0,
+          "amount": 431.0
+        }
+      ]
+    }
+  },
+  {
+    "file": "layout_b_04.pdf",
+    "layout": "layout_b",
+    "scanned": false,
+    "expected_flags": [
+      "TOTAL_MISMATCH"
+    ],
+    "invoice": {
+      "invoice_number": "F2026/0781",
+      "invoice_date": "2026-09-05",
+      "due_date": "2026-10-05",
+      "supplier_name": "Van der Berg Logistics B.V.",
+      "supplier_tax_id": "NL553035110B01",
+      "customer_name": "Polder Foods B.V.",
+      "customer_tax_id": "NL199585092B01",
+      "currency": "EUR",
+      "subtotal": 378.0,
+      "tax_rate": 21.0,
+      "tax_amount": 79.38,
+      "total": 467.38,
+      "line_items": [
+        {
+          "description": "Website maintenance",
+          "quantity": 1.0,
+          "unit_price": 378.0,
+          "amount": 378.0
+        }
+      ]
+    }
+  },
+  {
+    "file": "layout_b_05.pdf",
+    "layout": "layout_b",
+    "scanned": false,
+    "expected_flags": [],
+    "invoice": {
+      "invoice_number": "F2026/0788",
+      "invoice_date": "2026-10-04",
+      "due_date": "2026-11-03",
+      "supplier_name": "Almagro Soluciones Digitales S.L.",
+      "supplier_tax_id": "ESB33218199",
+      "customer_name": "Cobalt Retail S.A.",
+      "customer_tax_id": "ESA65423519",
+      "currency": "EUR",
+      "subtotal": 3077.0,
+      "tax_rate": 21.0,
+      "tax_amount": 646.17,
+      "total": 3723.17,
+      "line_items": [
+        {
+          "description": "UX audit",
+          "quantity": 1.0,
+          "unit_price": 2320.0,
+          "amount": 2320.0
+        },
+        {
+          "description": "Freight Madrid - Rotterdam",
+          "quantity": 1.0,
+          "unit_price": 757.0,
+          "amount": 757.0
+        }
+      ]
+    }
+  },
+  {
+    "file": "layout_b_06_scan.pdf",
+    "layout": "layout_b",
+    "scanned": true,
+    "expected_flags": [],
+    "invoice": {
+      "invoice_number": "F2026/0796",
+      "invoice_date": "2026-09-24",
+      "due_date": "2026-10-24",
+      "supplier_name": "Van der Berg Logistics B.V.",
+      "supplier_tax_id": "NL553035110B01",
+      "customer_name": "Polder Foods B.V.",
+      "customer_tax_id": "NL199585092B01",
+      "currency": "EUR",
+      "subtotal": 2090.88,
+      "tax_rate": 21.0,
+      "tax_amount": 439.08,
+      "total": 2529.96,
+      "line_items": [
+        {
+          "description": "Technical support (hours)",
+          "quantity": 3.0,
+          "unit_price": 60.96,
+          "amount": 182.88
+        },
+        {
+          "description": "UX audit",
+          "quantity": 1.0,
+          "unit_price": 1908.0,
+          "amount": 1908.0
+        }
+      ]
+    }
+  },
+  {
+    "file": "layout_b_07.pdf",
+    "layout": "layout_b",
+    "scanned": false,
+    "expected_flags": [],
+    "invoice": {
+      "invoice_number": "F2026/0797",
+      "invoice_date": "2026-09-22",
+      "due_date": "2026-10-22",
+      "supplier_name": "Almagro Soluciones Digitales S.L.",
+      "supplier_tax_id": "ESB33218199",
+      "customer_name": "Cobalt Retail S.A.",
+      "customer_tax_id": "ESA65423519",
+      "currency": "EUR",
+      "subtotal": 1237.0,
+      "tax_rate": 21.0,
+      "tax_amount": 259.77,
+      "total": 1496.77,
+      "line_items": [
+        {
+          "description": "UX audit",
+          "quantity": 1.0,
+          "unit_price": 1237.0,
+          "amount": 1237.0
+        }
+      ]
+    }
+  },
+  {
+    "file": "layout_b_08_scan.pdf",
+    "layout": "layout_b",
+    "scanned": true,
+    "expected_flags": [],
+    "invoice": {
+      "invoice_number": "F2026/0800",
+      "invoice_date": "2026-10-05",
+      "due_date": "2026-11-04",
+      "supplier_name": "Van der Berg Logistics B.V.",
+      "supplier_tax_id": "NL553035110B01",
+      "customer_name": "Polder Foods B.V.",
+      "customer_tax_id": "NL199585092B01",
+      "currency": "EUR",
+      "subtotal": 3061.4,
+      "tax_rate": 21.0,
+      "tax_amount": 642.89,
+      "total": 3704.29,
+      "line_items": [
+        {
+          "description": "Technical support (hours)",
+          "quantity": 1.0,
+          "unit_price": 54.16,
+          "amount": 54.16
+        },
+        {
+          "description": "UX audit",
+          "quantity": 1.0,
+          "unit_price": 2258.0,
+          "amount": 2258.0
+        },
+        {
+          "description": "Translation EN>ES (per 1,000 words)",
+          "quantity": 4.0,
+          "unit_price": 72.83,
+          "amount": 291.32
+        },
+        {
+          "description": "Website maintenance",
+          "quantity": 1.0,
+          "unit_price": 244.0,
+          "amount": 244.0
+        },
+        {
+          "description": "Pallet storage (per pallet/month)",
+          "quantity": 16.0,
+          "unit_price": 13.37,
+          "amount": 213.92
+        }
+      ]
+    }
+  },
+  {
+    "file": "layout_c_01.pdf",
+    "layout": "layout_c",
+    "scanned": false,
+    "expected_flags": [],
+    "invoice": {
+      "invoice_number": "RE-26-10691",
+      "invoice_date": "2026-09-07",
+      "due_date": "2026-10-07",
+      "supplier_name": "Kessler Maschinenbau GmbH",
+      "supplier_tax_id": "DE101338908",
+      "customer_name": "Nordlicht Medien GmbH",
+      "customer_tax_id": "DE715594074",
+      "currency": "EUR",
+      "subtotal": 1581.48,
+      "tax_rate": 19.0,
+      "tax_amount": 300.48,
+      "total": 1881.96,
+      "line_items": [
+        {
+          "description": "Hydraulic pump service",
+          "quantity": 1.0,
+          "unit_price": 438.0,
+          "amount": 438.0
+        },
+        {
+          "description": "On-site technician (hours)",
+          "quantity": 5.0,
+          "unit_price": 75.63,
+          "amount": 378.15
+        },
+        {
+          "description": "Calibration certificate",
+          "quantity": 1.0,
+          "unit_price": 189.33,
+          "amount": 189.33
+        },
+        {
+          "description": "Spare part kit KX-200",
+          "quantity": 3.0,
+          "unit_price": 192.0,
+          "amount": 576.0
+        }
+      ]
+    }
+  },
+  {
+    "file": "layout_c_02.pdf",
+    "layout": "layout_c",
+    "scanned": false,
+    "expected_flags": [],
+    "invoice": {
+      "invoice_number": "RE-26-10699",
+      "invoice_date": "2026-09-05",
+      "due_date": "2026-10-05",
+      "supplier_name": "Atelier Moreau SARL",
+      "supplier_tax_id": "FR88702632297",
+      "customer_name": "Studio Lumière SAS",
+      "customer_tax_id": "FR56675770529",
+      "currency": "EUR",
+      "subtotal": 1697.97,
+      "tax_rate": 20.0,
+      "tax_amount": 339.59,
+      "total": 2037.56,
+      "line_items": [
+        {
+          "description": "Conveyor belt 5 m",
+          "quantity": 1.0,
+          "unit_price": 477.0,
+          "amount": 477.0
+        },
+        {
+          "description": "Bearing set 6204-2RS",
+          "quantity": 13.0,
+          "unit_price": 10.04,
+          "amount": 130.52
+        },
+        {
+          "description": "Spare part kit KX-200",
+          "quantity": 2.0,
+          "unit_price": 364.0,
+          "amount": 728.0
+        },
+        {
+          "description": "On-site technician (hours)",
+          "quantity": 5.0,
+          "unit_price": 72.49,
+          "amount": 362.45
+        }
+      ]
+    }
+  },
+  {
+    "file": "layout_c_03_scan.pdf",
+    "layout": "layout_c",
+    "scanned": true,
+    "expected_flags": [],
+    "invoice": {
+      "invoice_number": "RE-26-10707",
+      "invoice_date": "2026-09-17",
+      "due_date": "2026-10-17",
+      "supplier_name": "Kessler Maschinenbau GmbH",
+      "supplier_tax_id": "DE101338908",
+      "customer_name": "Nordlicht Medien GmbH",
+      "customer_tax_id": "DE715594074",
+      "currency": "EUR",
+      "subtotal": 1696.99,
+      "tax_rate": 19.0,
+      "tax_amount": 322.43,
+      "total": 2019.42,
+      "line_items": [
+        {
+          "description": "Spare part kit KX-200",
+          "quantity": 1.0,
+          "unit_price": 661.0,
+          "amount": 661.0
+        },
+        {
+          "description": "Conveyor belt 5 m",
+          "quantity": 1.0,
+          "unit_price": 578.0,
+          "amount": 578.0
+        },
+        {
+          "description": "Calibration certificate",
+          "quantity": 1.0,
+          "unit_price": 243.76,
+          "amount": 243.76
+        },
+        {
+          "description": "On-site technician (hours)",
+          "quantity": 2.0,
+          "unit_price": 69.94,
+          "amount": 139.88
+        },
+        {
+          "description": "Bearing set 6204-2RS",
+          "quantity": 5.0,
+          "unit_price": 14.87,
+          "amount": 74.35
+        }
+      ]
+    }
+  },
+  {
+    "file": "layout_c_04.pdf",
+    "layout": "layout_c",
+    "scanned": false,
+    "expected_flags": [],
+    "invoice": {
+      "invoice_number": "RE-26-10715",
+      "invoice_date": "2026-10-08",
+      "due_date": "2026-11-07",
+      "supplier_name": "Atelier Moreau SARL",
+      "supplier_tax_id": "FR88702632297",
+      "customer_name": "Studio Lumière SAS",
+      "customer_tax_id": "FR56675770529",
+      "currency": "EUR",
+      "subtotal": 2061.15,
+      "tax_rate": 20.0,
+      "tax_amount": 412.23,
+      "total": 2473.38,
+      "line_items": [
+        {
+          "description": "Hydraulic pump service",
+          "quantity": 1.0,
+          "unit_price": 971.0,
+          "amount": 971.0
+        },
+        {
+          "description": "Conveyor belt 5 m",
+          "quantity": 1.0,
+          "unit_price": 613.0,
+          "amount": 613.0
+        },
+        {
+          "description": "Bearing set 6204-2RS",
+          "quantity": 13.0,
+          "unit_price": 6.55,
+          "amount": 85.15
+        },
+        {
+          "description": "Spare part kit KX-200",
+          "quantity": 2.0,
+          "unit_price": 196.0,
+          "amount": 392.0
+        }
+      ]
+    }
+  },
+  {
+    "file": "layout_c_05.pdf",
+    "layout": "layout_c",
+    "scanned": false,
+    "expected_flags": [
+      "TAX_ID_INVALID"
+    ],
+    "invoice": {
+      "invoice_number": "RE-26-10716",
+      "invoice_date": "2026-10-09",
+      "due_date": "2026-11-08",
+      "supplier_name": "Kessler Maschinenbau GmbH",
+      "supplier_tax_id": "DE101338901",
+      "customer_name": "Nordlicht Medien GmbH",
+      "customer_tax_id": "DE715594074",
+      "currency": "EUR",
+      "subtotal": 2193.54,
+      "tax_rate": 19.0,
+      "tax_amount": 416.77,
+      "total": 2610.31,
+      "line_items": [
+        {
+          "description": "Calibration certificate",
+          "quantity": 1.0,
+          "unit_price": 242.16,
+          "amount": 242.16
+        },
+        {
+          "description": "Hydraulic pump service",
+          "quantity": 1.0,
+          "unit_price": 422.0,
+          "amount": 422.0
+        },
+        {
+          "description": "Spare part kit KX-200",
+          "quantity": 1.0,
+          "unit_price": 1018.0,
+          "amount": 1018.0
+        },
+        {
+          "description": "Bearing set 6204-2RS",
+          "quantity": 8.0,
+          "unit_price": 9.63,
+          "amount": 77.04
+        },
+        {
+          "description": "On-site technician (hours)",
+          "quantity": 6.0,
+          "unit_price": 72.39,
+          "amount": 434.34
+        }
+      ]
+    }
+  },
+  {
+    "file": "layout_c_06_scan.pdf",
+    "layout": "layout_c",
+    "scanned": true,
+    "expected_flags": [],
+    "invoice": {
+      "invoice_number": "RE-26-10717",
+      "invoice_date": "2026-09-05",
+      "due_date": "2026-10-05",
+      "supplier_name": "Atelier Moreau SARL",
+      "supplier_tax_id": "FR88702632297",
+      "customer_name": "Studio Lumière SAS",
+      "customer_tax_id": "FR56675770529",
+      "currency": "EUR",
+      "subtotal": 4606.26,
+      "tax_rate": 20.0,
+      "tax_amount": 921.25,
+      "total": 5527.51,
+      "line_items": [
+        {
+          "description": "Spare part kit KX-200",
+          "quantity": 3.0,
+          "unit_price": 1073.0,
+          "amount": 3219.0
+        },
+        {
+          "description": "On-site technician (hours)",
+          "quantity": 3.0,
+          "unit_price": 72.97,
+          "amount": 218.91
+        },
+        {
+          "description": "Bearing set 6204-2RS",
+          "quantity": 7.0,
+          "unit_price": 12.05,
+          "amount": 84.35
+        },
+        {
+          "description": "Hydraulic pump service",
+          "quantity": 1.0,
+          "unit_price": 563.0,
+          "amount": 563.0
+        },
+        {
+          "description": "Conveyor belt 5 m",
+          "quantity": 1.0,
+          "unit_price": 521.0,
+          "amount": 521.0
+        }
+      ]
+    }
+  },
+  {
+    "file": "layout_c_07.pdf",
+    "layout": "layout_c",
+    "scanned": false,
+    "expected_flags": [],
+    "invoice": {
+      "invoice_number": "RE-26-10720",
+      "invoice_date": "2026-09-17",
+      "due_date": "2026-10-17",
+      "supplier_name": "Kessler Maschinenbau GmbH",
+      "supplier_tax_id": "DE101338908",
+      "customer_name": "Nordlicht Medien GmbH",
+      "customer_tax_id": "DE715594074",
+      "currency": "EUR",
+      "subtotal": 1209.0,
+      "tax_rate": 19.0,
+      "tax_amount": 229.71,
+      "total": 1438.71,
+      "line_items": [
+        {
+          "description": "Spare part kit KX-200",
+          "quantity": 3.0,
+          "unit_price": 403.0,
+          "amount": 1209.0
+        }
+      ]
+    }
+  },
+  {
+    "file": "layout_c_08_scan.pdf",
+    "layout": "layout_c",
+    "scanned": true,
+    "expected_flags": [
+      "LOW_OCR_CONFIDENCE"
+    ],
+    "invoice": {
+      "invoice_number": "RE-26-10721",
+      "invoice_date": "2026-10-04",
+      "due_date": "2026-11-03",
+      "supplier_name": "Atelier Moreau SARL",
+      "supplier_tax_id": "FR88702632297",
+      "customer_name": "Studio Lumière SAS",
+      "customer_tax_id": "FR56675770529",
+      "currency": "EUR",
+      "subtotal": 1652.59,
+      "tax_rate": 20.0,
+      "tax_amount": 330.52,
+      "total": 1983.11,
+      "line_items": [
+        {
+          "description": "Spare part kit KX-200",
+          "quantity": 2.0,
+          "unit_price": 330.0,
+          "amount": 660.0
+        },
+        {
+          "description": "Hydraulic pump service",
+          "quantity": 1.0,
+          "unit_price": 889.0,
+          "amount": 889.0
+        },
+        {
+          "description": "Bearing set 6204-2RS",
+          "quantity": 9.0,
+          "unit_price": 11.51,
+          "amount": 103.59
+        }
+      ]
+    }
+  },
+  {
+    "file": "layout_d_01.pdf",
+    "layout": "layout_d",
+    "scanned": false,
+    "expected_flags": [
+      "UNKNOWN_LAYOUT"
+    ],
+    "invoice": {
+      "invoice_number": "LTS-0410",
+      "invoice_date": "2026-09-22",
+      "due_date": "2026-10-07",
+      "supplier_name": "Lumen Translation Studio S.L.",
+      "supplier_tax_id": "B38637948",
+      "customer_name": "Cobalt Retail S.A.",
+      "customer_tax_id": "A16184954",
+      "currency": "EUR",
+      "subtotal": 730.47,
+      "tax_rate": 21.0,
+      "tax_amount": 153.4,
+      "total": 883.87,
+      "line_items": [
+        {
+          "description": "Translation EN>ES, product catalogue",
+          "quantity": 3045.0,
+          "unit_price": 0.11,
+          "amount": 334.95
+        },
+        {
+          "description": "Subtitling, onboarding videos",
+          "quantity": 52.0,
+          "unit_price": 6.47,
+          "amount": 336.44
+        },
+        {
+          "description": "Proofreading, terms and conditions",
+          "quantity": 1477.0,
+          "unit_price": 0.04,
+          "amount": 59.08
+        }
+      ]
+    }
+  },
+  {
+    "file": "layout_d_02.pdf",
+    "layout": "layout_d",
+    "scanned": false,
+    "expected_flags": [
+      "UNKNOWN_LAYOUT"
+    ],
+    "invoice": {
+      "invoice_number": "LTS-0411",
+      "invoice_date": "2026-09-03",
+      "due_date": "2026-09-18",
+      "supplier_name": "Lumen Translation Studio S.L.",
+      "supplier_tax_id": "B38637948",
+      "customer_name": "Cobalt Retail S.A.",
+      "customer_tax_id": "A16184954",
+      "currency": "EUR",
+      "subtotal": 923.62,
+      "tax_rate": 21.0,
+      "tax_amount": 193.96,
+      "total": 1117.58,
+      "line_items": [
+        {
+          "description": "Subtitling, onboarding videos",
+          "quantity": 33.0,
+          "unit_price": 8.72,
+          "amount": 287.76
+        },
+        {
+          "description": "Proofreading, terms and conditions",
+          "quantity": 2632.0,
+          "unit_price": 0.03,
+          "amount": 78.96
+        },
+        {
+          "description": "Translation EN>ES, product catalogue",
+          "quantity": 5569.0,
+          "unit_price": 0.1,
+          "amount": 556.9
+        }
+      ]
+    }
+  },
+  {
+    "file": "layout_d_03.pdf",
+    "layout": "layout_d",
+    "scanned": false,
+    "expected_flags": [
+      "UNKNOWN_LAYOUT"
+    ],
+    "invoice": {
+      "invoice_number": "LTS-0412",
+      "invoice_date": "2026-10-06",
+      "due_date": "2026-10-21",
+      "supplier_name": "Lumen Translation Studio S.L.",
+      "supplier_tax_id": "B38637948",
+      "customer_name": "Cobalt Retail S.A.",
+      "customer_tax_id": "A16184954",
+      "currency": "EUR",
+      "subtotal": 423.46,
+      "tax_rate": 21.0,
+      "tax_amount": 88.93,
+      "total": 512.39,
+      "line_items": [
+        {
+          "description": "Translation EN>ES, product catalogue",
+          "quantity": 3423.0,
+          "unit_price": 0.1,
+          "amount": 342.3
+        },
+        {
+          "description": "Proofreading, terms and conditions",
+          "quantity": 2029.0,
+          "unit_price": 0.04,
+          "amount": 81.16
+        }
+      ]
+    }
+  },
+  {
+    "file": "layout_d_04_scan.pdf",
+    "layout": "layout_d",
+    "scanned": true,
+    "expected_flags": [
+      "UNKNOWN_LAYOUT"
+    ],
+    "invoice": {
+      "invoice_number": "LTS-0421",
+      "invoice_date": "2026-09-24",
+      "due_date": "2026-10-09",
+      "supplier_name": "Lumen Translation Studio S.L.",
+      "supplier_tax_id": "B38637948",
+      "customer_name": "Cobalt Retail S.A.",
+      "customer_tax_id": "A16184954",
+      "currency": "EUR",
+      "subtotal": 298.89,
+      "tax_rate": 21.0,
+      "tax_amount": 62.77,
+      "total": 361.66,
+      "line_items": [
+        {
+          "description": "Translation EN>ES, product catalogue",
+          "quantity": 3321.0,
+          "unit_price": 0.09,
+          "amount": 298.89
+        }
+      ]
+    }
+  },
+  {
+    "file": "layout_d_05.pdf",
+    "layout": "layout_d",
+    "scanned": false,
+    "expected_flags": [
+      "UNKNOWN_LAYOUT"
+    ],
+    "invoice": {
+      "invoice_number": "LTS-0427",
+      "invoice_date": "2026-09-03",
+      "due_date": "2026-09-18",
+      "supplier_name": "Lumen Translation Studio S.L.",
+      "supplier_tax_id": "B38637948",
+      "customer_name": "Cobalt Retail S.A.",
+      "customer_tax_id": "A16184954",
+      "currency": "EUR",
+      "subtotal": 82.3,
+      "tax_rate": 21.0,
+      "tax_amount": 17.28,
+      "total": 99.58,
+      "line_items": [
+        {
+          "description": "Proofreading, terms and conditions",
+          "quantity": 1646.0,
+          "unit_price": 0.05,
+          "amount": 82.3
+        }
+      ]
+    }
+  },
+  {
+    "file": "layout_d_06.pdf",
+    "layout": "layout_d",
+    "scanned": false,
+    "expected_flags": [
+      "UNKNOWN_LAYOUT"
+    ],
+    "invoice": {
+      "invoice_number": "LTS-0436",
+      "invoice_date": "2026-09-23",
+      "due_date": "2026-10-08",
+      "supplier_name": "Lumen Translation Studio S.L.",
+      "supplier_tax_id": "B38637948",
+      "customer_name": "Cobalt Retail S.A.",
+      "customer_tax_id": "A16184954",
+      "currency": "EUR",
+      "subtotal": 256.0,
+      "tax_rate": 21.0,
+      "tax_amount": 53.76,
+      "total": 309.76,
+      "line_items": [
+        {
+          "description": "Subtitling, onboarding videos",
+          "quantity": 32.0,
+          "unit_price": 8.0,
+          "amount": 256.0
+        }
+      ]
+    }
+  }
+]
